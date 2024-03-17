@@ -12,9 +12,11 @@
 
 - 📫 How to reach me **ishaq.adhel@gmail.com**
 
-## Github Status
+## Github Status  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishaqadhel&theme=dark&hide_border=false)<br/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqadhel"><p>
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ishaqadhel&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 
